@@ -1,5 +1,5 @@
 # Mohan Ganapaneni, EDI & API Integration Analyst :
-Welcome to my professional portfolio website! I’m a skilled EDI Analyst and API Integration Specialist with 4+ years of experience delivering robust B2B integrations in the healthcare, retail, and logistics industries.
+Welcome to my professional portfolio website! I’m a skilled EDI Analyst and API Integration Specialist with 4 years of experience delivering robust B2B integrations in the healthcare, retail, and logistics industries.
 This portfolio showcases my technical expertise in ANSI X12 (834/837), EDIFACT, HIPAA-compliant data exchange, and backend integration using tools like IBM Sterling, EDIFECS, and Selerix BenSelect.
 ## Tech Stack :
 - **Languages:** SQL, JScript, Excel Macros
